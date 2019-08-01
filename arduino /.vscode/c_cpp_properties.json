@@ -1,0 +1,32 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/rabayjai112/ProgramFile/arduino-1.8.9/tools/**",
+                "/home/rabayjai112/ProgramFile/arduino-1.8.9/hardware/arduino/avr/**",
+                "/home/rabayjai112/drugDerivery_ws/devel/include",
+                "/home/rabayjai112/intro_ws/devel/include",
+                "/home/rabayjai112/eleven_ws/devel/include",
+                "/home/rabayjai112/catkin_ws/devel/include",
+                "/opt/ros/kinetic/include",
+                "/home/rabayjai112/drugDerivery_ws/src/rosserial/rosserial_server/include",
+                "/home/rabayjai112/drugDerivery_ws/src/rosserial/rosserial_test/include",
+                "/usr/include",
+                "/home/rabayjai112/Arduino/libraries"
+            ],
+            "name": "Linux",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "forcedInclude": [
+                "/home/rabayjai112/ProgramFile/arduino-1.8.9/hardware/arduino/avr/cores/arduino/Arduino.h"
+            ]
+        }
+    ],
+    "version": 4
+}
